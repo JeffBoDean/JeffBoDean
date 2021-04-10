@@ -1,4 +1,4 @@
-![Hudson Design Studio logo](images/hudson-design-studio-logo.svg)
+![Hudson Design Studio logo](assets/images/hudson-design-studio-logo.svg)
 
 <span align="center">
     ![Hudson Design Studio logo](images/hudson-design-studio-logo.svg)
