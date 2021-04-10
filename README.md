@@ -1,20 +1,16 @@
-<p align="center">
+<span align="center">
     <img width="100px" src="https://res.cloudinary.com/anuraghazra/image/upload/v1594908242/logo_ccswme.svg" align="center" alt="GitHub Readme Stats" />
-
     <h2 align="center">Jeff A. Hudson</h2>
-
     <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
-</p>
+</span>
 
 <p align="center">
     <a href="https://github.com/JeffBoDean/github-readme-stats/actions">
         <img alt="Tests Passing" src="https://github.com/JeffBoDean/github-readme-stats/workflows/Test/badge.svg" />
     </a>
-
     <a href="https://github.com/JeffBoDean/github-readme-stats/issues">
         <img alt="Issues" src="https://img.shields.io/github/issues/JeffBoDean/github-readme-stats?color=0088ff" />
     </a>
-
     <a href="https://github.com/JeffBoDean/github-readme-stats/pulls">
         <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/JeffBoDean/github-readme-stats?color=0088ff" />
     </a>
