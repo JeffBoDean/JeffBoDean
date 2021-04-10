@@ -1,5 +1,5 @@
 <span align="center">
-    <span>![](images/hudson-design-studio-logo.svg)</span>
+    ![Hudson Design Studio logo](images/hudson-design-studio-logo.svg)
     <h2 align="center">Jeff A. Hudson</h2>
     <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
 </span>
