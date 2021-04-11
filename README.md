@@ -1,4 +1,4 @@
-![Hudson Design Studio logo](assets/images/hudson-design-studio-logo.svg =200x156)
+![Hudson Design Studio logo](assets/images/hudson-design-studio-logo.svg)
 
 <span align="center">
     <h2 align="center">Jeff A. Hudson</h2>
