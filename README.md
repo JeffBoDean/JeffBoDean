@@ -19,8 +19,6 @@
     </a>
 </p>
 
----
-
 <br>
 
 I am the ower/operator of Hudson Design Studio. We build custom designed websites tailored to meet our clients needs.
