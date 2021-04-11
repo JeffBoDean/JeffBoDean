@@ -1,4 +1,4 @@
-<img src="assets/images/hudson-design-studio-logo.svg" max-width="20%">
+<img src="assets/images/hudson-design-studio-logo.svg" style="max-width:20%;">
 
 ![Hudson Design Studio logo](assets/images/hudson-design-studio-logo.svg =200x156)
 
