@@ -4,7 +4,7 @@
 
 <span align="center">
     <h2 align="center">Jeff A. Hudson</h2>
-    <p align="center">Get dynamically generated GitHub stats on your readmes!</p>
+    <p align="center">We build awesome websites!</p>
 </span>
 
 <p align="center">
