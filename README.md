@@ -87,12 +87,8 @@ We specailize in the following content management systems:
 <br>
 <br>
 
-<p float="left">
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
 [![github-test's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffBoDean&show_icons=true&theme=react)](https://github.com/JeffBoDean/github-readme-stats)
-</p>
-
-
 
 
 <!--
