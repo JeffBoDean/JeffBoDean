@@ -19,8 +19,19 @@
     </a>
 </p>
 
+I am the ower/operator of Hudson Design Studio. We build custom designed websites tailored to meet our clients needs.
 
+We offer the following services:
+* Web development
+* Web design
+* Graphic design
+* Logo design
+* Audio services
+* Video Editing
 
+We specailize in the following content management systems:
+* WordPress
+* Drupal
 
 <!--
 **JeffBoDean/JeffBoDean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
