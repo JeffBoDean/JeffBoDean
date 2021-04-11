@@ -18,6 +18,7 @@
     <span>
     ![GitHub followers](https://img.shields.io/github/followers/JeffBoDean?style=social)
     ![GitHub followers](https://img.shields.io/github/followers/JeffBoDean?style=social)
+    ![GitHub Org's stars](https://img.shields.io/github/stars/JeffBoDean?style=social)
     </span>    
 </p>
 
