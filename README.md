@@ -1,6 +1,6 @@
-<p align="center">
+<span align="center">
     ![Hudson Design Studio logo](assets/images/hudson-design-studio-logo.svg)
-</p>
+</span>
 
 <span align="center">
     <h2 align="center">Jeff A. Hudson</h2>
