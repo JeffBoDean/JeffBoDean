@@ -7,9 +7,9 @@
     <p align="center">We build awesome websites!</p>
 </span>
 
-<img src="https://komarev.com/ghpvc/?username=jeffbodean&label=Profile%20views&color=0e75b6&style=flat" alt="jeffbodean" />
 ![GitHub followers](https://img.shields.io/github/followers/JeffBoDean?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/JeffBoDean?style=social)
+<img src="https://komarev.com/ghpvc/?username=jeffbodean&label=Profile%20views&color=0e75b6&style=flat" alt="jeffbodean" />
 
 <br>
 
