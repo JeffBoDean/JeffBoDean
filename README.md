@@ -29,9 +29,22 @@ We offer the following services:
 * Audio services
 * Video Editing
 
+<br>
+
 We specailize in the following content management systems:
 * WordPress
 * Drupal
+
+---
+
+<br>
+<br>
+<br>
+
+[![github-test's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffBoDean&show_icons=true&theme=react)](https://github.com/JeffBoDean/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
+
 
 <!--
 **JeffBoDean/JeffBoDean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
