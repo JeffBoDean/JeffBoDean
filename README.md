@@ -17,6 +17,7 @@
     <a href="https://github.com/JeffBoDean/github-readme-stats/pulls">
         <img alt="GitHub pull requests" src="https://img.shields.io/github/issues-pr/JeffBoDean/github-readme-stats?color=0088ff" />
     </a>
+    [![JeffBoDean's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffBoDean)](https://github.com/JeffBoDean/github-readme-stats)
 </p>
 
 <br>
