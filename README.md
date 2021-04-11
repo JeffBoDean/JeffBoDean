@@ -16,11 +16,13 @@
     </a>
     ![Profile View Counter](https://komarev.com/ghpvc/?username=Your_GitHub_Username)
     <span>
-    ![GitHub followers](https://img.shields.io/github/followers/JeffBoDean?style=social)
-    ![GitHub followers](https://img.shields.io/github/followers/JeffBoDean?style=social)
-    ![GitHub Org's stars](https://img.shields.io/github/stars/JeffBoDean?style=social)
+    
     </span>    
 </p>
+
+![GitHub followers](https://img.shields.io/github/followers/JeffBoDean?style=social)
+![GitHub followers](https://img.shields.io/github/followers/JeffBoDean?style=social)
+![GitHub Org's stars](https://img.shields.io/github/stars/JeffBoDean?style=social)
 
 <br>
 
