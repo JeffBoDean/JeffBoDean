@@ -99,6 +99,8 @@ We specailize in the following content management systems:
 
 [![github-test's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffBoDean&show_icons=true&theme=react)](https://github.com/JeffBoDean/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JeffBoDean&" alt="JeffBoDean" />
+
 </details>
 
 <!-- markdownlint-enable MD033 -->
@@ -107,7 +109,7 @@ We specailize in the following content management systems:
 
 <p>
 	<a href="https://www.buymeacoffee.com/JeffBoDean">
-		<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JeffBoDean" />
+		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JeffBoDean" />
 	</a>
 </p>
 
@@ -127,9 +129,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JeffBoDean&" alt="JeffBoDean" /></p>
-
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
 
