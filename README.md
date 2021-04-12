@@ -83,6 +83,8 @@ We specailize in the following content management systems:
     </a>
 </p>
 
+---
+
 <br>
 <br>
 
@@ -93,14 +95,14 @@ We specailize in the following content management systems:
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=jeffbodean)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
 
 </details>
 
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Waren Gonzaga Github Stats](https://readme-stats.JeffBoDean.com/api?username=JeffBoDean&show_icons=true&count_private=true)](https://github.com/JeffBoDean/github-readme-stats) [![Top Language](https://readme-stats.JeffBoDean.com/api/top-langs?username=JeffBoDean&layout=compact)](https://github.com/JeffBoDean/github-readme-stats)
+[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
 
 </details>
 
