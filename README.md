@@ -72,9 +72,9 @@ We specailize in the following content management systems:
 	</a>
 </p>
 
-<h3 align="left">Software:</h3>
+<h3>Software:</h3>
 
-<p align="left">
+<p>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
         <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/>
     </a>
@@ -103,7 +103,8 @@ We specailize in the following content management systems:
 
 <!-- markdownlint-enable MD033 -->
 
-<h3 align="left">Support:</h3>
+<h3>Support:</h3>
+
 <p>
 	<a href="https://www.buymeacoffee.com/JeffBoDean">
 		<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JeffBoDean" />
