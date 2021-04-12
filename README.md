@@ -83,8 +83,6 @@ We specailize in the following content management systems:
     </a>
 </p>
 
----
-
 <br>
 <br>
 
@@ -93,42 +91,16 @@ We specailize in the following content management systems:
 <!-- markdownlint-disable MD033 -->
 
 <details>
-    <summary>&#128240 <b>Latest Blogs Posts</b></summary><br/>
-
-<!-- BLOG-POST-LIST:START -->
-- [7 Helpful GitHub Repositories for Developers](https://dev.to/warengonzaga/7-helpful-github-repositories-for-developers-2kkm)
-- [GitHub Codespaces](https://dev.to/warengonzaga/github-codespaces-1i8k)
-- [Animate.css v4 Update!](https://dev.to/warengonzaga/animate-css-v4-update-18m8)
-- [An open-source curl-based command line tracker for coronavirus or covid-19 with historical chart.](https://dev.to/warengonzaga/an-open-source-curl-based-command-line-tracker-for-coronavirus-or-covid-19-with-historical-chart-3op9)
-- [CURL request without protocol on expressJS server?](https://dev.to/warengonzaga/curl-request-without-protocol-on-expressjs-server-32op)
-<!-- BLOG-POST-LIST:END -->
-
-</details>
-
-<details>
-    <summary>&#128187 <b>GitHub Activities</b></summary><br/>
-
-<!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/ripper234/Whatever-Origin/issues/12) in [ripper234/Whatever-Origin](https://github.com/ripper234/Whatever-Origin)
-2. ❗️ Opened issue [#80](https://github.com/wareneutron/covid19-tracker-cli/issues/80) in [wareneutron/covid19-tracker-cli](https://github.com/wareneutron/covid19-tracker-cli)
-3. 🗣 Commented on [#92](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/92) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-4. 🗣 Commented on [#92](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/92) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-5. ❗️ Closed issue [#91](https://github.com/alexmigf/stock-locations-for-woocommerce/issues/91) in [alexmigf/stock-locations-for-woocommerce](https://github.com/alexmigf/stock-locations-for-woocommerce)
-<!--END_SECTION:activity-->
-
-</details>
-
-<details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
 
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=warengonzaga)
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=jeffbodean)
 
 </details>
 
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![Waren Gonzaga Github Stats](https://readme-stats.warengonzaga.com/api?username=warengonzaga&show_icons=true&count_private=true)](https://github.com/warengonzaga/github-readme-stats) [![Top Language](https://readme-stats.warengonzaga.com/api/top-langs?username=warengonzaga&layout=compact)](https://github.com/warengonzaga/github-readme-stats)
+[![Waren Gonzaga Github Stats](https://readme-stats.JeffBoDean.com/api?username=JeffBoDean&show_icons=true&count_private=true)](https://github.com/JeffBoDean/github-readme-stats) [![Top Language](https://readme-stats.JeffBoDean.com/api/top-langs?username=JeffBoDean&layout=compact)](https://github.com/JeffBoDean/github-readme-stats)
 
 </details>
 
