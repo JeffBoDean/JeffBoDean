@@ -103,7 +103,12 @@ We specailize in the following content management systems:
 
 <!-- markdownlint-enable MD033 -->
 
-
+<h3 align="left">Support:</h3>
+<p>
+	<a href="https://www.buymeacoffee.com/JeffBoDean">
+		<img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JeffBoDean" />
+	</a>
+</p>
 
 
 
@@ -122,24 +127,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center">Hi 👋, I'm Jeff A. Hudson</h1>
-<h3 align="center">We build awesome websites!</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=jeffbodean&label=Profile%20views&color=0e75b6&style=flat" alt="jeffbodean" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=jeffbodean" alt="jeffbodean" /></a> </p>
 
 
 
+<br><br>
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/JeffBoDean"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JeffBoDean" /></a></p><br><br>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=JeffBoDean&show_icons=true&locale=en&layout=compact" alt="JeffBoDean" /></p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=jeffbodean&show_icons=true&locale=en&layout=compact" alt="jeffbodean" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=JeffBoDean&show_icons=true&locale=en" alt="JeffBoDean" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeffbodean&show_icons=true&locale=en" alt="jeffbodean" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jeffbodean&" alt="jeffbodean" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JeffBoDean&" alt="JeffBoDean" /></p>
 
 
 <img alt="HTML5" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"/>
@@ -166,6 +163,6 @@ Here are some ideas to get you started:
 
 <img alt="GitLab" src="https://img.shields.io/badge/gitlab%20-%23181717.svg?&style=for-the-badge&logo=gitlab&logoColor=white"/>
 
-[![Stargazers over time](https://starchart.cc/Naereen/badges.svg)](https://starchart.cc/Naereen/badges)
+[![Stargazers over time](https://starchart.cc/JeffBoDean/badges.svg)](https://starchart.cc/JeffBoDean/badges)
 
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
