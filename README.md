@@ -34,6 +34,28 @@ We specailize in the following content management systems:
 
 ---
 
+<!-- markdownlint-disable MD033 -->
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=JeffBoDean)
+
+</details>
+
+<details>
+    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
+
+[![github-test's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffBoDean&show_icons=true&theme=react)](https://github.com/JeffBoDean/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JeffBoDean&" alt="JeffBoDean" />
+
+</details>
+
+<!-- markdownlint-enable MD033 -->
+
+---
+
 <h3>Languages and Tools:</h3>
 
 <p>
@@ -82,28 +104,6 @@ We specailize in the following content management systems:
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/>
     </a>
 </p>
-
----
-
-<!-- markdownlint-disable MD033 -->
-
-<details>
-    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
-
-![Github Trophy](https://github-profile-trophy.vercel.app/?username=JeffBoDean)
-
-</details>
-
-<details>
-    <summary>&#9889 <b>GitHub Stats</b></summary><br/>
-
-[![github-test's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffBoDean&show_icons=true&theme=react)](https://github.com/JeffBoDean/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JeffBoDean&" alt="JeffBoDean" />
-
-</details>
-
-<!-- markdownlint-enable MD033 -->
 
 <h3>Support:</h3>
 
