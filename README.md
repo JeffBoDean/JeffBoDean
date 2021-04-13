@@ -86,6 +86,12 @@ We offer the following services:
 	<a href="https://www.php.net/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP logo" width="40" height="40"/>
 	</a>
+	<a href="https://www.markdownguide.org/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Markdown logo" width="40" height="40"/>
+	</a>
+	<a href="https://www.markdownguide.org/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm logo" width="40" height="40"/>
+	</a>
 </p>
 
 <h3>Content Management Systems:</h3>
