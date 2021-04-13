@@ -57,7 +57,7 @@ We offer the following services:
 </details>
 
 <!-- markdownlint-enable MD033 -->
-
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeffBoDean&theme=react-dark)](https://github.com/JeffBoDean/github-readme-activity-graph)
 ---
 
 <h3>Languages and Tools:</h3>
