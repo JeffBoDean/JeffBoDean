@@ -43,7 +43,7 @@ We offer the following services:
 </details>
 
 <details>
-    <summary>&#9889 <b>Top Languages</b></summary><br/>
+    <summary>:computer: <b>Top Languages</b></summary><br/>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
 
