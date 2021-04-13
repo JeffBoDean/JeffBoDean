@@ -57,34 +57,34 @@ We offer the following services:
 
 <p>
 	<a href="https://getbootstrap.com" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="bootstrap" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap logo" width="40" height="40"/>
 	</a>
 	<a href="https://www.chartjs.org" target="_blank">
-		<img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/>
+		<img src="https://www.chartjs.org/media/logo-title.svg" alt="Chartjs logo" width="40" height="40"/>
 	</a>
 	<a href="https://circleci.com" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="circleci" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/circleci/circleci-icon.svg" alt="CircleCI logo" width="40" height="40"/>
 	</a>
 	<a href="https://www.w3schools.com/css/" target="_blank">
-		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3 logo" width="40" height="40"/>
 	</a>
 	<a href="https://www.w3.org/html/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/w3c/w3c-icon.svg" alt="html5" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/w3c/w3c-icon.svg" alt="HTML5 logo" width="40" height="40"/>
 	</a>
 	<a href="https://www.linux.org/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="linux" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/linux/linux-icon.svg" alt="Linux logo" width="40" height="40"/>
 	</a>
 	<a href="https://www.mysql.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="mysql" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="MySql logo" width="40" height="40"/>
 	</a>
 	<a href="https://nodejs.org" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="nodejs" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/nodejs/nodejs-icon.svg" alt="NodeJs logo" width="40" height="40"/>
 	</a>
 	<a href="https://sass-lang.com" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="sass" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/sass-lang/sass-lang-icon.svg" alt="SASS logo" width="40" height="40"/>
 	</a>
 	<a href="https://www.php.net/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="sass" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="PHP logo" width="40" height="40"/>
 	</a>
 </p>
 
@@ -92,10 +92,10 @@ We offer the following services:
 
 <p>
     <a href="https://wordpress.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress logo" width="40" height="40"/>
     </a>
     <a href="https://www.drupal.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/drupal/drupal-icon.svg" alt="Drupal" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/drupal/drupal-icon.svg" alt="Drupal logo" width="40" height="40"/>
     </a>
 </p>
 
@@ -103,16 +103,16 @@ We offer the following services:
 
 <p>
     	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git logo" width="40" height="40"/>
       	</a>
 	<a href="https://github.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+		<img src="https://raw.githubusercontent.com/vatsa287/vatsa287/master/assets/github-original.svg" alt="GitHub logo" width="40" height="40"/>
       	</a>
 	<a href="https://about.gitlab.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab logo" width="40" height="40"/>
       	</a>
 	<a href="https://www.gitkraken.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="GitKraken" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="GitKraken logo" width="40" height="40"/>
       	</a>
 </p>
 
@@ -120,16 +120,16 @@ We offer the following services:
 
 <p>
     	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="PHPStorm" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="PHPStorm logo" width="40" height="40"/>
       	</a>
 	<a href="https://github.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="SublimeText3" width="40" height="40"/>
+		<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="SublimeText3 logo" width="40" height="40"/>
       	</a>
-	<a href="https://about.gitlab.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
+	<a href="https://code.visualstudio.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio Code logo" width="40" height="40"/>
       	</a>
-	<a href="https://www.gitkraken.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="GitKraken" width="40" height="40"/>
+	<a href="https://www.sketchup.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="Sketchup logo" width="40" height="40"/>
       	</a>
 </p>
 
@@ -137,19 +137,25 @@ We offer the following services:
 
 <p>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="Illustrator logo" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop logo" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/products/premiere.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Premiere Pro logo" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/products/premiere-rush.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Premiere Rush logo" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="After Effects logo" width="40" height="40"/>
     </a>
     <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="InDesign logo" width="40" height="40"/>
     </a>
-    <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Premiere Pro" width="40" height="40"/>
-    </a>
-    <a href="https://acrobat.adobe.com/us/en/acrobat.html" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-icon.svg" alt="Acrobat" width="40" height="40"/>
-    </a>
-    <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
+    <a href="https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-icon.svg" alt="Acrobat Pro DC logo logo" width="40" height="40"/>
     </a>
 </p>
 
@@ -157,10 +163,10 @@ We offer the following services:
 
 <p>
     <a href="https://www.atlassian.com/software/jira" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/atlassian_jira/atlassian_jira-icon.svg" alt="Jira logo" width="40" height="40"/>
     </a>
     <a href="https://slack.com/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack" width="40" height="40"/>
+        <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack logo" width="40" height="40"/>
     </a>
 </p>
 
