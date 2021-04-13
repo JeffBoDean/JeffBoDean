@@ -24,14 +24,6 @@ We offer the following services:
 * Audio services
 * Video Editing
 
-<br>
-
-We specailize in the following content management systems:
-* WordPress
-* Drupal
-
-<br>
-
 ---
 
 <!-- markdownlint-disable MD033 -->
@@ -46,9 +38,16 @@ We specailize in the following content management systems:
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br/>
 
-[![github-test's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffBoDean&show_icons=true&theme=react)](https://github.com/JeffBoDean/github-readme-stats) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
+[![github-test's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffBoDean&show_icons=true&theme=react)](https://github.com/JeffBoDean/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1)](https://git.io/streak-stats)
 
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=JeffBoDean&" alt="JeffBoDean" />
+
+</details>
+
+<details>
+    <summary>&#9889 <b>Top Languages</b></summary><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
 
 </details>
 
