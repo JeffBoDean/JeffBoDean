@@ -231,3 +231,5 @@ Here are some ideas to get you started:
 [![Stargazers over time](https://starchart.cc/JeffBoDean/badges.svg)](https://starchart.cc/JeffBoDean/badges)
 
 <img alt="GitHub" src="https://img.shields.io/badge/github%20-%23121011.svg?&style=for-the-badge&logo=github&logoColor=white"/>
+
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
