@@ -94,6 +94,17 @@ We specailize in the following content management systems:
 	</a>
 </p>
 
+<h3>Content Management Systems:</h3>
+
+<p>
+    <a href="https://wordpress.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/>
+    </a>
+    <a href="https://www.drupal.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/drupal/drupal-icon.svg" alt="Drupal" width="40" height="40"/>
+    </a>
+</p>
+
 <h3>Software:</h3>
 
 <p>
