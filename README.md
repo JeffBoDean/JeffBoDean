@@ -68,9 +68,6 @@ We offer the following services:
 	<a href="https://www.w3schools.com/css/" target="_blank">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
 	</a>
-	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-	</a>
 	<a href="https://www.w3.org/html/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/w3c/w3c-icon.svg" alt="html5" width="40" height="40"/>
 	</a>
@@ -89,6 +86,23 @@ We offer the following services:
 	<a href="https://www.php.net/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="sass" width="40" height="40"/>
 	</a>
+</p>
+
+<h3>Version Control:</h3>
+
+<p>
+    	<a href="https://git-scm.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+      	</a>
+	<a href="https://github.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+      	</a>
+	<a href="https://about.gitlab.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/>
+      	</a>
+	<a href="https://www.gitkraken.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="GitKraken" width="40" height="40"/>
+      	</a>
 </p>
 
 <h3>Content Management Systems:</h3>
