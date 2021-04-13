@@ -128,8 +128,8 @@ We offer the following services:
     <a href="https://www.photoshop.com/en" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Premiere Pro" width="40" height="40"/>
     </a>
-    <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Acrobat" width="40" height="40"/>
+    <a href="https://acrobat.adobe.com/us/en/acrobat.html" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/adobe_acrobat/adobe_acrobat-icon.svg" alt="Acrobat" width="40" height="40"/>
     </a>
     <a href="https://www.photoshop.com/en" target="_blank">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="Photoshop" width="40" height="40"/>
