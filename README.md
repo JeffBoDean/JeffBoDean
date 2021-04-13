@@ -49,6 +49,13 @@ We offer the following services:
 
 </details>
 
+<details>
+    <summary>&#9889 <b>GitHub Recent Activity</b></summary><br/>
+
+    [![Jeff's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeffBoDean&theme=react-dark)](https://github.com/JeffBoDean/github-readme-activity-graph)
+
+</details>
+
 <!-- markdownlint-enable MD033 -->
 
 ---
@@ -95,6 +102,7 @@ We offer the following services:
 	<a href="https://www.jsdelivr.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/jsdelivr/jsdelivr-icon.svg" alt="JSDELIVR logo" width="40" height="40"/>
 	</a>
+	<img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png">
 </p>
 
 <h3>Content Management Systems:</h3>
