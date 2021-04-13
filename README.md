@@ -99,23 +99,6 @@ We offer the following services:
     </a>
 </p>
 
-<h3>IDE and Text Editors:</h3>
-
-<p>
-    	<a href="https://git-scm.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="PHPStorm" width="40" height="40"/>
-      	</a>
-	<a href="https://github.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="SublimeText3" width="40" height="40"/>
-      	</a>
-	<a href="https://about.gitlab.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
-      	</a>
-	<a href="https://www.gitkraken.com/" target="_blank">
-		<img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="GitKraken" width="40" height="40"/>
-      	</a>
-</p>
-
 <h3>Version Control:</h3>
 
 <p>
@@ -127,6 +110,23 @@ We offer the following services:
       	</a>
 	<a href="https://about.gitlab.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="GitLab" width="40" height="40"/>
+      	</a>
+	<a href="https://www.gitkraken.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="GitKraken" width="40" height="40"/>
+      	</a>
+</p>
+
+<h3>IDE and Text Editors:</h3>
+
+<p>
+    	<a href="https://git-scm.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="PHPStorm" width="40" height="40"/>
+      	</a>
+	<a href="https://github.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="SublimeText3" width="40" height="40"/>
+      	</a>
+	<a href="https://about.gitlab.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-icon.svg" alt="Visual Studio Code" width="40" height="40"/>
       	</a>
 	<a href="https://www.gitkraken.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="GitKraken" width="40" height="40"/>
