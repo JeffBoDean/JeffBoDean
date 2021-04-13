@@ -203,7 +203,7 @@ We offer the following services:
 	</a>
 </p>
 
-<p align="center"><strong>Passionate about web design and development!</strong></p>
+<h3 align="center"><strong>Passionate about web design and development!</strong></h3>
 
 <hr align="center" style="width: 50%;">
 
