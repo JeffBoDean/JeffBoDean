@@ -52,7 +52,7 @@ We offer the following services:
 <details>
     <summary>&#9889 <b>GitHub Recent Activity</b></summary><br/>
 
-    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeffBoDean&theme=react-dark)](https://github.com/JeffBoDean/github-readme-activity-graph)
+    <!--START_SECTION:activity-->
 
 </details>
 
