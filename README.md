@@ -89,8 +89,11 @@ We offer the following services:
 	<a href="https://www.markdownguide.org/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/php/php-icon.svg" alt="Markdown logo" width="40" height="40"/>
 	</a>
-	<a href="https://www.markdownguide.org/" target="_blank">
+	<a href="https://www.npmjs.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/npmjs/npmjs-icon.svg" alt="npm logo" width="40" height="40"/>
+	</a>
+	<a href="https://www.jsdelivr.com/" target="_blank">
+		<img src="https://www.vectorlogo.zone/logos/jsdelivr/jsdelivr-icon.svg" alt="JSDELIVR logo" width="40" height="40"/>
 	</a>
 </p>
 
