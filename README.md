@@ -88,6 +88,17 @@ We offer the following services:
 	</a>
 </p>
 
+<h3>Content Management Systems:</h3>
+
+<p>
+    <a href="https://wordpress.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/>
+    </a>
+    <a href="https://www.drupal.org/" target="_blank">
+        <img src="https://www.vectorlogo.zone/logos/drupal/drupal-icon.svg" alt="Drupal" width="40" height="40"/>
+    </a>
+</p>
+
 <h3>IDE and Text Editors:</h3>
 
 <p>
@@ -120,17 +131,6 @@ We offer the following services:
 	<a href="https://www.gitkraken.com/" target="_blank">
 		<img src="https://www.vectorlogo.zone/logos/gitkraken/gitkraken-icon.svg" alt="GitKraken" width="40" height="40"/>
       	</a>
-</p>
-
-<h3>Content Management Systems:</h3>
-
-<p>
-    <a href="https://wordpress.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg" alt="WordPress" width="40" height="40"/>
-    </a>
-    <a href="https://www.drupal.org/" target="_blank">
-        <img src="https://www.vectorlogo.zone/logos/drupal/drupal-icon.svg" alt="Drupal" width="40" height="40"/>
-    </a>
 </p>
 
 <h3>Software:</h3>
