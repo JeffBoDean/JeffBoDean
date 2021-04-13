@@ -45,14 +45,14 @@ We offer the following services:
 <details>
     <summary>:computer: <b>Top Languages</b></summary><br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
+    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
 
 </details>
 
 <details>
     <summary>&#9889 <b>GitHub Recent Activity</b></summary><br/>
 
-    [![Jeff's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeffBoDean&theme=react-dark)](https://github.com/JeffBoDean/github-readme-activity-graph)
+    [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeffBoDean&theme=react-dark)](https://github.com/JeffBoDean/github-readme-activity-graph)
 
 </details>
 
