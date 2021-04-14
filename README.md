@@ -54,10 +54,16 @@ We offer the following services:
 
     
 <!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </details>
 
 <!-- markdownlint-enable MD033 -->
+
+### Recent Activity
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 <br>
 
