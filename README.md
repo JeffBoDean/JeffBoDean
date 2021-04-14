@@ -54,7 +54,6 @@ We offer the following services:
 
     
 <!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 </details>
 
