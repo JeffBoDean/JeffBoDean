@@ -202,7 +202,7 @@ We offer the following services:
 </p>
 
 <p align="center">
-    <img src="assets/images/contact-info-combined-buttons.svg" alt="Jeff Hudson Contact Info">
+    <img src="assets/images/contact-info-combined-buttons.svg" alt="Jeff Hudson Contact Buttons">
 </p>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
