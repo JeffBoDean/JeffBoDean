@@ -10,7 +10,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/JeffBoDean?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/JeffBoDean?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jeffbodean/jeffbodean)
-![Profile Views](https://komarev.com/ghpvc/?username=jeffbodean&color=007ec6&style=plastic)
+![](https://komarev.com/ghpvc/?username=jeffbodean)
 
 <br>
 
