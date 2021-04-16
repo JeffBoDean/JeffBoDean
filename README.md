@@ -200,18 +200,6 @@ We offer the following services:
 
 <br>
 
-<h3>Support:</h3>
-
-<p>
-	<a href="https://www.buymeacoffee.com/JeffBoDean">
-		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JeffBoDean" />
-	</a>
-</p>
-
-<br>
-<br>
-<br>
-
 <p align="center">
     <img src="assets/images/contact-info-combined-buttons.svg" alt="Jeff Hudson Contact">
 </p>
@@ -221,3 +209,9 @@ We offer the following services:
 <hr align="center" style="width: 50%;">
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+<p>
+	<a href="https://www.buymeacoffee.com/JeffBoDean">
+		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JeffBoDean" />
+	</a>
+</p>
