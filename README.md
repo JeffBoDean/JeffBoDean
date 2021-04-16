@@ -10,7 +10,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/JeffBoDean?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/JeffBoDean?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jeffbodean/jeffbodean)
-<img src="https://komarev.com/ghpvc/?username=jeffbodean&label=Profile%20views&color=0e75b6&style=flat" alt="jeffbodean" />
+![Profile Views](https://komarev.com/ghpvc/?username=jeffbodean&color=007ec6&style=plastic)
 
 <br>
 
@@ -201,7 +201,7 @@ We offer the following services:
 <br>
 
 <p align="center">
-    <img src="assets/images/contact-info-combined-buttons.svg" alt="Jeff Hudson Contact">
+    <img src="assets/images/contact-info-combined-buttons.svg" alt="Jeff Hudson Contact Info">
 </p>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
