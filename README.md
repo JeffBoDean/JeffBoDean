@@ -210,7 +210,7 @@ We offer the following services:
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
-<p>
+<p align="center">
 	<a href="https://www.buymeacoffee.com/JeffBoDean">
 		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JeffBoDean" />
 	</a>
