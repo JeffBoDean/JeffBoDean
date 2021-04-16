@@ -204,10 +204,6 @@ We offer the following services:
     <img src="assets/images/contact-info-combined-buttons.svg" alt="Jeff Hudson Contact">
 </p>
 
-<h3 align="center"><strong>Passionate about web design and development!</strong></h3>
-
-<hr align="center" style="width: 50%;">
-
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
 
 <p align="center">
