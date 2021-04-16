@@ -11,7 +11,6 @@
 ![GitHub Org's stars](https://img.shields.io/github/stars/JeffBoDean?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jeffbodean/jeffbodean)
 ![Profile Views](https://komarev.com/ghpvc/?username=jeffbodean&color=007ec6)
-<img src="https://komarev.com/ghpvc/?username=jeffbodean&label=Profile%20views&color=0e75b6&style=flat" alt="jeffbodean" />
 
 <br>
 
