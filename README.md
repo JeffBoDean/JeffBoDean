@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/images/hudson-design-studio-logo.svg">
+    <img src="assets/images/hudson-design-studio-logo.svg" alt="Hudson Design Studio Logo">
 </p>
 
 <span align="center">
@@ -10,6 +10,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/JeffBoDean?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/JeffBoDean?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jeffbodean/jeffbodean)
+![Profile Views](https://komarev.com/ghpvc/?username=jeffbodean&color=007ec6&style=plastic)
 <img src="https://komarev.com/ghpvc/?username=jeffbodean&label=Profile%20views&color=0e75b6&style=flat" alt="jeffbodean" />
 
 <br>
@@ -57,6 +58,8 @@ We offer the following services:
 <!--END_SECTION:activity-->
 
 </details>
+
+<br>
 
 <!-- markdownlint-enable MD033 -->
 
@@ -200,20 +203,14 @@ We offer the following services:
 
 <br>
 
-<h3>Support:</h3>
+<p align="center">
+    <img src="assets/images/contact-info-combined-buttons.svg" alt="Jeff Hudson Contact Info">
+</p>
 
-<p>
+<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
+
+<p align="center">
 	<a href="https://www.buymeacoffee.com/JeffBoDean">
 		<img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="JeffBoDean" />
 	</a>
 </p>
-
-<br>
-<br>
-<br>
-
-<h3 align="center"><strong>Passionate about web design and development!</strong></h3>
-
-<hr align="center" style="width: 50%;">
-
-<img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
