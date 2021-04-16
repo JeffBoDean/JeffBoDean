@@ -201,8 +201,6 @@ We offer the following services:
     </a>
 </p>
 
-<br>
-
 <p align="center">
     <img src="assets/images/contact-info-combined-buttons.svg" alt="Jeff Hudson Contact Info">
 </p>
