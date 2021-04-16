@@ -1,5 +1,5 @@
 <p align="center">
-    <img src="assets/images/hudson-design-studio-logo.svg">
+    <img src="assets/images/hudson-design-studio-logo.svg" alt="Hudson Design Studio Logo">
 </p>
 
 <span align="center">
@@ -211,6 +211,10 @@ We offer the following services:
 <br>
 <br>
 <br>
+
+<p align="center">
+    <img src="assets/images/contact-info-combined-buttons.svg" alt="Jeff Hudson Contact">
+</p>
 
 <h3 align="center"><strong>Passionate about web design and development!</strong></h3>
 
