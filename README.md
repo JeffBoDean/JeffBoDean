@@ -123,7 +123,7 @@ We offer the following services:
         <img src="assets/images/icons/foundation-icon.svg" alt="Foundation icon" width="40" height="40"/>
     </a>
     <a href="https://getbootstrap.com" target="_blank">
-    <img src="assets/images/icons/bootstrap-icon.svg" alt="Bootstrap logo" width="40" height="40"/>
+        <img src="assets/images/icons/bootstrap-icon.svg" alt="Bootstrap logo" width="40" height="40"/>
     </a>
 </p>
 
@@ -145,9 +145,9 @@ We offer the following services:
 ### Version Control:
 
 <p>
-        <a href="https://git-scm.com/" target="_blank">
+    <a href="https://git-scm.com/" target="_blank">
         <img src="assets/images/icons/git-scm-icon.svg" alt="Git icon" width="40" height="40"/>
-        </a>
+    </a>
     <a href="https://github.com/" target="_blank">
         <img src="assets/images/icons/github-icon.svg" alt="GitHub icon" width="40" height="40"/>
         </a>
@@ -156,7 +156,7 @@ We offer the following services:
         </a>
     <a href="https://www.gitkraken.com/" target="_blank">
         <img src="assets/images/icons/gitkraken-icon.svg" alt="GitKraken icon" width="40" height="40"/>
-        </a>
+    </a>
 </p>
 
 <br>
@@ -164,9 +164,9 @@ We offer the following services:
 ### IDE, Text Editors &amp; Command Line Tools:
 
 <p>
-        <a href="https://iterm2.com/" target="_blank">
+    <a href="https://iterm2.com/" target="_blank">
         <img src="assets/images/icons/iterms2-icon.svg" alt="iTerms2 icon" width="40" height="40"/>
-        </a>
+    </a>
     <a href="https://gitforwindows.org/" target="_blank">
         <img src="assets/images/icons/git-bash-icon.svg" alt="Git Bash icon" width="40" height="40"/>
         </a>
@@ -241,7 +241,7 @@ We offer the following services:
         <img src="assets/images/icons/audacity-icon.svg" alt="Audacity icon" width="40" height="40"/>
     </a>
     <a href="https://www.sketchup.com/" target="_blank">
-    <img src="assets/images/icons/sketchup-icon.svg" alt="Sketchup icon" width="40" height="40"/>
+        <img src="assets/images/icons/sketchup-icon.svg" alt="Sketchup icon" width="40" height="40"/>
     </a>
 </p>
 
@@ -263,13 +263,13 @@ We offer the following services:
         <img src="assets/images/icons/siteground-icon.svg" alt="Siteground icon" width="40" height="40"/>
     </a>
     <a href="https://www.jwplayer.com/" target="_blank">
-    <img src="assets/images/icons/jwplayer-icon.svg" alt="JWPlayer icon" width="40" height="40"/>
+        <img src="assets/images/icons/jwplayer-icon.svg" alt="JWPlayer icon" width="40" height="40"/>
     </a>
     <a href="https://siteimprove.com/" target="_blank">
-    <img src="assets/images/icons/siteimprove-icon.svg" alt="Siteimprove icon" width="40" height="40"/>
+        <img src="assets/images/icons/siteimprove-icon.svg" alt="Siteimprove icon" width="40" height="40"/>
     </a>
     <a href="https://www.jsdelivr.com/" target="_blank">
-    <img src="assets/images/icons/jsdelivr-icon.svg" alt="jsDelivr icon" width="40" height="40"/>
+        <img src="assets/images/icons/jsdelivr-icon.svg" alt="jsDelivr icon" width="40" height="40"/>
     </a>
 </p>
 
