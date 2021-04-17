@@ -75,7 +75,9 @@ We offer the following services:
 
 ---
 
-<h3>Languages:</h3>
+<br>
+
+### Languages:
 
 <p>
 	<a href="https://getbootstrap.com" target="_blank">
@@ -119,7 +121,9 @@ We offer the following services:
 	</a>
 </p>
 
-<h3>Content Management Systems:</h3>
+<br>
+
+### Content Management Systems:
 
 <p>
     <a href="https://wordpress.org/" target="_blank">
@@ -130,7 +134,9 @@ We offer the following services:
     </a>
 </p>
 
-<h3>Version Control:</h3>
+<br>
+
+### Version Control:
 
 <p>
     	<a href="https://git-scm.com/" target="_blank">
@@ -147,7 +153,9 @@ We offer the following services:
       	</a>
 </p>
 
-<h3>IDE, Text Editors &amp; Command Line Tools:</h3>
+<br>
+
+### IDE, Text Editors &amp; Command Line Tools:
 
 <p>
     	<a href="https://iterm2.com/" target="_blank">
@@ -188,7 +196,9 @@ We offer the following services:
 	</a>
 </p>
 
-<h3>Software:</h3>
+<br>
+
+### Software:
 
 <p>
     <a href="https://www.mamp.info/en/mamp-pro/" target="_blank">
@@ -232,7 +242,37 @@ We offer the following services:
     </a>
 </p>
 
-<h3>Project Management:</h3>
+<br>
+
+### Hosting &amp; Services:
+
+<p>
+    <a href="https://www.sketchup.com/" target="_blank">
+	<img src="assets/images/icons/amazon-web-services-icon.svg" alt="Sketchup icon" width="40" height="40"/>
+    </a>
+    <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank">
+        <img src="assets/images/icons/amazon-web-services-icon.svg" alt="Amazon Web Service icon" width="40" height="40"/>
+    </a>
+    <a href="https://www.hostgator.com/" target="_blank">
+        <img src="assets/images/icons/hostgator-icon.svg" alt="Hostgator icon" width="40" height="40"/>
+    </a>
+    <a href="https://pantheon.io/" target="_blank">
+        <img src="assets/images/icons/pantheon-icon.svg" alt="Pantheon icon" width="40" height="40"/>
+    </a>
+    <a href="https://www.siteground.com/" target="_blank">
+        <img src="assets/images/icons/siteground-icon.svg" alt="Siteground icon" width="40" height="40"/>
+    </a>
+    <a href="https://www.jwplayer.com/" target="_blank">
+	<img src="assets/images/icons/jwplayer-icon.svg" alt="JWPlayer icon" width="40" height="40"/>
+    </a>
+    <a href="https://siteimprove.com/" target="_blank">
+	<img src="assets/images/icons/siteimprove-icon.svg" alt="Siteimprove icon" width="40" height="40"/>
+    </a>
+</p>
+
+<br>
+
+### Project Management:
 
 <p>
     <a href="https://www.atlassian.com/software/jira" target="_blank">
@@ -242,6 +282,8 @@ We offer the following services:
         <img src="assets/images/icons/slack-icon.svg" alt="Slack icon" width="40" height="40"/>
     </a>
 </p>
+
+<br>
 
 ---
 
