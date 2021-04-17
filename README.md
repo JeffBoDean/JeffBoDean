@@ -90,8 +90,8 @@ We offer the following services:
 	<a href="https://www.w3schools.com/css/" target="_blank">
 		<img src="assets/images/icons/css3-icon.svg" alt="CSS3 logo" width="40" height="40"/>
 	</a>
-	<a href="https://www.w3.org/html/" target="_blank">
-		<img src="assets/images/icons/html5.svg" alt="HTML5 logo" width="40" height="40"/>
+	<a href="https://www.w3schools.com/html/" target="_blank">
+		<img src="assets/images/icons/html5-icon.svg" alt="HTML5 logo" width="40" height="40"/>
 	</a>
 	<a href="https://www.linux.org/" target="_blank">
 		<img src="assets/images/icons/linux-icon.svg" alt="Linux logo" width="40" height="40"/>
@@ -115,7 +115,7 @@ We offer the following services:
 		<img src="assets/images/icons/npmjs-icon.svg" alt="npm logo" width="40" height="40"/>
 	</a>
 	<a href="https://www.jsdelivr.com/" target="_blank">
-		<img src="assets/images/icons/jsdelivr-icon.svg" alt="JSDELIVR logo" width="40" height="40"/>
+		<img src="assets/images/icons/jsdelivr-icon.svg" alt="jsDelivr icon" width="40" height="40"/>
 	</a>
 </p>
 
@@ -123,10 +123,10 @@ We offer the following services:
 
 <p>
     <a href="https://wordpress.org/" target="_blank">
-        <img src="assets/images/icons/wordpress-icon.svg" alt="WordPress logo" width="40" height="40"/>
+        <img src="assets/images/icons/wordpress-icon.svg" alt="WordPress icon" width="40" height="40"/>
     </a>
     <a href="https://www.drupal.org/" target="_blank">
-        <img src="assets/images/icons/drupal-icon.svg" alt="Drupal logo" width="40" height="40"/>
+        <img src="assets/images/icons/drupal-icon.svg" alt="Drupal icon" width="40" height="40"/>
     </a>
 </p>
 
@@ -134,36 +134,36 @@ We offer the following services:
 
 <p>
     	<a href="https://git-scm.com/" target="_blank">
-		<img src="assets/images/icons/git-icon.svg" alt="Git logo" width="40" height="40"/>
+		<img src="assets/images/icons/git-icon.svg" alt="Git icon" width="40" height="40"/>
       	</a>
 	<a href="https://github.com/" target="_blank">
-		<img src="assets/images/icons/github-icon.svg" alt="GitHub logo" width="40" height="40"/>
+		<img src="assets/images/icons/github-icon.svg" alt="GitHub icon" width="40" height="40"/>
       	</a>
 	<a href="https://about.gitlab.com/" target="_blank">
-		<img src="assets/images/icons/gitlab-icon.svg" alt="GitLab logo" width="40" height="40"/>
+		<img src="assets/images/icons/gitlab-icon.svg" alt="GitLab icon" width="40" height="40"/>
       	</a>
 	<a href="https://www.gitkraken.com/" target="_blank">
-		<img src="assets/images/icons/gitkraken-icon.svg" alt="GitKraken logo" width="40" height="40"/>
+		<img src="assets/images/icons/gitkraken-icon.svg" alt="GitKraken icon" width="40" height="40"/>
       	</a>
 </p>
 
 <h3>IDE, Text Editors &amp; Tools:</h3>
 
 <p>
-    	<a href="https://git-scm.com/" target="_blank">
-		<img src="assets/images/icons/phpstorm-icon.svg" alt="PHPStorm logo" width="40" height="40"/>
+    	<a href="https://www.jetbrains.com/phpstorm/" target="_blank">
+		<img src="assets/images/icons/phpstorm-icon.svg" alt="PHPStorm icon" width="40" height="40"/>
       	</a>
-	<a href="https://github.com/" target="_blank">
-		<img src="assets/images/icons/github-icon.svg" alt="SublimeText3 logo" width="40" height="40"/>
+	<a href="https://www.sublimetext.com/" target="_blank">
+		<img src="assets/images/icons/github-icon.svg" alt="SublimeText3 icon" width="40" height="40"/>
       	</a>
 	<a href="https://code.visualstudio.com/" target="_blank">
-		<img src="assets/images/icons/visual-studio-code-icon.svg" alt="Visual Studio Code logo" width="40" height="40"/>
+		<img src="assets/images/icons/visual-studio-code-icon.svg" alt="Visual Studio Code icon" width="40" height="40"/>
       	</a>
 	<a href="https://www.sketchup.com/" target="_blank">
-		<img src="assets/images/icons/sketchup-icon.svg" alt="Sketchup logo" width="40" height="40"/>
+		<img src="assets/images/icons/sketchup-icon.svg" alt="Sketchup icon" width="40" height="40"/>
       	</a>
-	<a href="https://www.sketchup.com/" target="_blank">
-		<img src="assets/images/icons/iterms2-icon.svg" alt="Sketchup logo" width="40" height="40"/>
+	<a href="https://iterm2.com/" target="_blank">
+		<img src="assets/images/icons/iterms2-icon.svg" alt="iTerms2 icon" width="40" height="40"/>
       	</a>
 </p>
 
@@ -171,7 +171,7 @@ We offer the following services:
 
 <p>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="assets/images/icons/adobeillustrator-icon.svg" alt="Adobe Illustrator icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-illustrator-icon.svg" alt="Adobe Illustrator icon" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
         <img src="assets/images/icons/adobe-photoshop-icon.svg" alt="Adobe Photoshop icon" width="40" height="40"/>
