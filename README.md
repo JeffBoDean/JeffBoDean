@@ -73,6 +73,8 @@ We offer the following services:
 
 <br>
 
+---
+
 <h3>Languages and Tools:</h3>
 
 <p>
@@ -199,6 +201,8 @@ We offer the following services:
         <img src="https://www.vectorlogo.zone/logos/slack/slack-icon.svg" alt="Slack logo" width="40" height="40"/>
     </a>
 </p>
+
+---
 
 <p align="center">
     <img src="assets/images/contact-info-combined-buttons.svg" alt="Jeff Hudson Contact Buttons">
