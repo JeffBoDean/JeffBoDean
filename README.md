@@ -80,9 +80,6 @@ We offer the following services:
 ### Languages:
 
 <p>
-	<a href="https://getbootstrap.com" target="_blank">
-		<img src="assets/images/icons/bootstrap-icon.svg" alt="Bootstrap logo" width="40" height="40"/>
-	</a>
 	<a href="https://www.chartjs.org" target="_blank">
 		<img src="assets/images/icons/chart.js-icon.svg" alt="Chartjs logo" width="40" height="40"/>
 	</a>
@@ -119,6 +116,19 @@ We offer the following services:
 	<a href="https://www.json.org/json-en.html" target="_blank">
 		<img src="assets/images/icons/json-icon.svg" alt="Json icon" width="40" height="40"/>
 	</a>
+</p>
+
+<br>
+
+### CSS Frameworks:
+
+<p>
+    <a href="https://get.foundation/" target="_blank">
+        <img src="assets/images/icons/foundation-icon.svg" alt="Foundation icon" width="40" height="40"/>
+    </a>
+    <a href="https://getbootstrap.com" target="_blank">
+	<img src="assets/images/icons/bootstrap-icon.svg" alt="Bootstrap logo" width="40" height="40"/>
+    </a>
 </p>
 
 <br>
