@@ -75,7 +75,7 @@ We offer the following services:
 
 ---
 
-<h3>Languages and Tools:</h3>
+<h3>Languages:</h3>
 
 <p>
 	<a href="https://getbootstrap.com" target="_blank">
@@ -184,7 +184,7 @@ We offer the following services:
 		<img src="assets/images/icons/composer-icon.svg" alt="Composer icon" width="40" height="40"/>
 	</a>
 	<a href="https://www.drush.org/latest/" target="_blank">
-		<img src="assets/images/icons/drush-icon.svg" alt="Drush icon" width="40" height="40"/>
+		<img src="assets/images/icons/drush-blue-logo-icon.png" alt="Drush icon" width="40" height="40"/>
 	</a>
 </p>
 
