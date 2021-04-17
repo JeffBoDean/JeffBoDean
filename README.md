@@ -40,12 +40,14 @@ We offer the following services:
     <summary>&#9889 <b>GitHub Stats</b></summary><br />
     
     [![github-test's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffBoDean&show_icons=true&theme=react)](https://github.com/JeffBoDean/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeffBoDean&theme=react)](https://git.io/streak-stats)
+    
 </details>
 
 <details>
     <summary>:computer: <b>Top Languages</b></summary><br />
     
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
+    
 </details>
 
 <details>
@@ -61,9 +63,6 @@ We offer the following services:
 <!-- markdownlint-enable MD033 -->
 
 ### Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <br>
 
