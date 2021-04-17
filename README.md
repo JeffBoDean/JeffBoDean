@@ -75,6 +75,8 @@ We offer the following services:
 
 ---
 
+<br>
+
 <h3>Languages:</h3>
 
 <p>
@@ -265,6 +267,8 @@ We offer the following services:
 	<img src="assets/images/icons/siteimprove-icon.svg" alt="Siteimprove icon" width="40" height="40"/>
     </a>
 </p>
+
+<br>
 
 ---
 
