@@ -45,7 +45,7 @@ We offer the following services:
 <details>
     <summary>:computer: <b>Top Languages</b></summary><br/>
 
-    [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
 
 </details>
 
@@ -63,9 +63,6 @@ We offer the following services:
 <!-- markdownlint-enable MD033 -->
 
 ### Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <br>
 
