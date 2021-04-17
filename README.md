@@ -117,6 +117,21 @@ We offer the following services:
 	<a href="https://www.jsdelivr.com/" target="_blank">
 		<img src="assets/images/icons/jsdelivr-icon.svg" alt="jsDelivr icon" width="40" height="40"/>
 	</a>
+	<a href="https://www.javascript.com/" target="_blank">
+		<img src="assets/images/icons/javascript-icon.svg" alt="JavaSript icon" width="40" height="40"/>
+	</a>
+	<a href="https://jquery.com/" target="_blank">
+		<img src="assets/images/icons/jsquery-icon.svg" alt="jQuery icon" width="40" height="40"/>
+	</a>
+	<a href="https://www.json.org/json-en.html" target="_blank">
+		<img src="assets/images/icons/json-icon.svg" alt="Json icon" width="40" height="40"/>
+	</a>
+	<a href="https://getcomposer.org/" target="_blank">
+		<img src="assets/images/icons/composer-icon.svg" alt="Composer icon" width="40" height="40"/>
+	</a>
+	<a href="https://www.drush.org/latest/" target="_blank">
+		<img src="assets/images/icons/drush-icon.svg" alt="Drush icon" width="40" height="40"/>
+	</a>
 </p>
 
 <h3>Content Management Systems:</h3>
@@ -153,6 +168,9 @@ We offer the following services:
     	<a href="https://iterm2.com/" target="_blank">
 		<img src="assets/images/icons/iterms2-icon.svg" alt="iTerms2 icon" width="40" height="40"/>
       	</a>
+	<a href="https://gitforwindows.org/" target="_blank">
+		<img src="assets/images/icons/git-bash-icon.svg" alt="Git Bash icon" width="40" height="40"/>
+      	</a>
 	<a href="https://www.jetbrains.com/phpstorm/" target="_blank">
 		<img src="assets/images/icons/phpstorm-icon.svg" alt="PhpStorm icon" width="40" height="40"/>
       	</a>
@@ -162,31 +180,52 @@ We offer the following services:
 	<a href="https://code.visualstudio.com/" target="_blank">
 		<img src="assets/images/icons/visual-studio-code-icon.svg" alt="Visual Studio Code icon" width="40" height="40"/>
       	</a>
+	<a href="https://gruntjs.com/" target="_blank">
+		<img src="assets/images/icons/grunt-icon.svg" alt="Grunt icon" width="40" height="40"/>
+      	</a>
+	<a href="https://gulpjs.com/" target="_blank">
+		<img src="assets/images/icons/gulp-icon.svg" alt="Gulp icon" width="40" height="40"/>
+      	</a>
 </p>
 
 <h3>Software:</h3>
 
 <p>
+    <a href="https://www.mamp.info/en/mamp-pro/" target="_blank">
+        <img src="assets/images/icons/mamp-pro-icon.svg" alt="Mamp Pro icon" width="40" height="40"/>
+    </a>
+    <a href="https://www.apachefriends.org/index.html" target="_blank">
+        <img src="assets/images/icons/xampp-icon.svg" alt="Xampp icon" width="40" height="40"/>
+    </a>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="assets/images/icons/adobe-illustrator-cc-icon.svg" alt="Adobe Illustrator icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-illustrator-cc-icon.svg" alt="Adobe Illustrator CC icon" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-        <img src="assets/images/icons/adobe-photoshop-cc-icon.svg" alt="Adobe Photoshop icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-photoshop-cc-icon.svg" alt="Adobe Photoshop CC icon" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-        <img src="assets/images/icons/adobe-premiere-pro-cc-icon.svg" alt="Adobe Premiere Pro icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-premiere-pro-cc-icon.svg" alt="Adobe Premiere Pro CC icon" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/premiere-rush.html" target="_blank">
-        <img src="assets/images/icons/adobe-premiere-rush-cc-icon.svg" alt="Adobe Premiere Rush icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-premiere-rush-cc-icon.svg" alt="Adobe Premiere Rush CC icon" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-        <img src="assets/images/icons/adobe-after-effects-cc-icon.svg" alt="Adobe After Effects icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-after-effects-cc-icon.svg" alt="Adobe After Effects CC icon" width="40" height="40"/>
     </a>
-    <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="assets/images/icons/adobe-indesign-cc-icon.svg" alt="Adobe InDesign icon" width="40" height="40"/>
+    <a href="https://www.adobe.com/products/indesign.html" target="_blank">
+        <img src="assets/images/icons/adobe-indesign-cc-icon.svg" alt="Adobe InDesign CC icon" width="40" height="40"/>
     </a>
     <a href="https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html" target="_blank">
-        <img src="assets/images/icons/adobe-acrobat-pro-cc-icon.svg" alt="Acrobat Pro DC icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-acrobat-pro-cc-icon.svg" alt="Adobe Acrobat Pro DC icon" width="40" height="40"/>
+    </a>
+    <a href="https://www.adobe.com/products/bridge.html" target="_blank">
+        <img src="assets/images/icons/adobe-bridge-cc-icon.svg" alt="Adobe Bridge CC icon" width="40" height="40"/>
+    </a>
+    <a href="https://www.videolan.org/" target="_blank">
+        <img src="assets/images/icons/vlc-icon.svg" alt="Vlc icon" width="40" height="40"/>
+    </a>
+    <a href="https://www.audacityteam.org/" target="_blank">
+        <img src="assets/images/icons/audacity-icon.svg" alt="Audacity icon" width="40" height="40"/>
     </a>
     <a href="https://www.sketchup.com/" target="_blank">
 	<img src="assets/images/icons/sketchup-icon.svg" alt="Sketchup icon" width="40" height="40"/>
