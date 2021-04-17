@@ -52,8 +52,8 @@ We offer the following services:
 <details>
     <summary>&#9889 <b>GitHub Recent Activity</b></summary><br/>
    
-    <!--START_SECTION:activity-->
-    <!--END_SECTION:activity-->
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 </details>
 
