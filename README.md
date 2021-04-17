@@ -243,6 +243,29 @@ We offer the following services:
     </a>
 </p>
 
+<h3>Hosting &amp; Services:</h3>
+
+<p>
+    <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank">
+        <img src="assets/images/icons/amazon-web-services-icon.svg" alt="Amazon Web Service icon" width="40" height="40"/>
+    </a>
+    <a href="https://www.hostgator.com/" target="_blank">
+        <img src="assets/images/icons/hostgator-icon..svg" alt="Hostgator icon" width="40" height="40"/>
+    </a>
+    <a href="https://pantheon.io/" target="_blank">
+        <img src="assets/images/icons/pantheon-icon.svg" alt="Pantheon icon" width="40" height="40"/>
+    </a>
+    <a href="https://www.siteground.com/" target="_blank">
+        <img src="assets/images/icons/siteground-icon.svg" alt="Siteground icon" width="40" height="40"/>
+    </a>
+    <a href="https://www.jwplayer.com/" target="_blank">
+	<img src="assets/images/icons/jwplayer-icon.svg" alt="JWPlayer icon" width="40" height="40"/>
+    </a>
+    <a href="https://siteimprove.com/" target="_blank">
+	<img src="assets/images/icons/siteimprove-icon.svg" alt="Siteimprove icon" width="40" height="40"/>
+    </a>
+</p>
+
 ---
 
 <p align="center">
