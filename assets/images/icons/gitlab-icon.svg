@@ -1,1 +1,22 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 65 60" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round"><use xlink:href="#A" x=".5" y=".5"/><symbol id="A" overflow="visible"><g stroke="none"><path d="M32 58.964l11.784-36.277H20.216z" fill="#e24329"/><path d="M32 58.964L20.216 22.687H3.7z" fill="#fc6d26"/><path d="M3.7 22.687L.12 33.717a2.44 2.44 0 0 0 .886 2.728L32 58.964z" fill="#fca326"/><path d="M3.7 22.687h16.515L13.118.853c-.365-1.124-1.955-1.124-2.32 0z" fill="#e24329"/><path d="M32 58.964l11.784-36.277H60.3z" fill="#fc6d26"/><path d="M60.3 22.687l3.58 11.02a2.44 2.44 0 0 1-.886 2.728L32 58.964z" fill="#fca326"/><path d="M60.3 22.687H43.784L50.882.843c.365-1.124 1.955-1.124 2.32 0z" fill="#e24329"/></g></symbol></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 59" style="enable-background:new 0 0 64 59;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill-rule:evenodd;clip-rule:evenodd;fill:#E24329;}
+	.st1{fill-rule:evenodd;clip-rule:evenodd;fill:#FC6D26;}
+	.st2{fill-rule:evenodd;clip-rule:evenodd;fill:#FCA326;}
+</style>
+<symbol  id="A" viewBox="-32 -29.5 64 59">
+	<g>
+		<path class="st0" d="M0,29.5L11.8-6.8h-23.6L0,29.5z"/>
+		<path class="st1" d="M0,29.5L-11.8-6.8h-16.5L0,29.5z"/>
+		<path class="st2" d="M-28.3-6.8l-3.6,11c-0.3,1,0,2.1,0.9,2.7L0,29.5L-28.3-6.8z"/>
+		<path class="st0" d="M-28.3-6.8h16.5l-7.1-21.8c-0.4-1.1-2-1.1-2.3,0L-28.3-6.8z"/>
+		<path class="st1" d="M0,29.5L11.8-6.8h16.5L0,29.5z"/>
+		<path class="st2" d="M28.3-6.8l3.6,11c0.3,1,0,2.1-0.9,2.7L0,29.5L28.3-6.8z"/>
+		<path class="st0" d="M28.3-6.8H11.8l7.1-21.8c0.4-1.1,2-1.1,2.3,0L28.3-6.8z"/>
+	</g>
+</symbol>
+<use xlink:href="#A"  width="64" height="59" x="-32" y="-29.5" transform="matrix(1 0 0 1 31.9997 29.482)" style="overflow:visible;"/>
+</svg>

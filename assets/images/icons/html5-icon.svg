@@ -1,1 +1,21 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 59 66" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round"><use xlink:href="#A" x="1" y="1"/><symbol id="A" overflow="visible"><g stroke="none" fill-rule="nonzero"><path d="M5.136 57.602L0 0h56.432l-5.14 57.594-23.112 6.404z" fill="#e44d26"/><path d="M46.89 53.926L51.284 4.71H28.216v54.394z" fill="#f16529"/><path d="M28.192 11.774H10.5l1.906 21.364h15.81v-7.064h-9.348l-.646-7.234h9.994v-7.066zm.024 32.624l-.03.008-7.868-2.124-.5-5.634h-7.096l.99 11.092 14.472 4 .032-.01z" fill="#ebebeb"/><path d="M28.192 33.138h8.7l-.8 9.16-7.88 2.126v7.35l14.484-4.014 1.94-21.69h-16.42zM45.72 13.67l.168-1.896h-17.7v7.064h17.064l.14-1.588z"/></g></symbol></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 56.4 64" style="enable-background:new 0 0 56.4 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#E44D26;}
+	.st1{fill:#F16529;}
+	.st2{fill:#EBEBEB;}
+	.st3{fill:#FFFFFF;}
+</style>
+<symbol  id="A" viewBox="-28.2 -32 56.4 64">
+	<g>
+		<path class="st0" d="M-23.1,25.6L-28.2-32h56.4l-5.1,57.6L0,32L-23.1,25.6z"/>
+		<path class="st1" d="M18.7,21.9l4.4-49.2H0v54.4L18.7,21.9z"/>
+		<path class="st2" d="M0-20.2h-17.7l1.9,21.4H0v-7.1h-9.3l-0.6-7.2H0L0-20.2L0-20.2z M0,12.4L0,12.4l-7.9-2.1l-0.5-5.6h-7.1l1,11.1
+			l14.5,4l0,0L0,12.4z"/>
+		<path class="st3" d="M0,1.1h8.7l-0.8,9.2L0,12.4v7.3l14.5-4l1.9-21.7H0L0,1.1z M17.5-18.3l0.2-1.9H0v7.1H17l0.1-1.6L17.5-18.3z"/>
+	</g>
+</symbol>
+<use xlink:href="#A"  width="56.4" height="64" x="-28.2" y="-32" transform="matrix(1 0 0 1 28.216 31.999)" style="overflow:visible;"/>
+</svg>

@@ -1,1 +1,16 @@
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" viewBox="0 0 67 66" fill="#fff" fill-rule="evenodd" stroke="#000" stroke-linecap="round" stroke-linejoin="round"><use xlink:href="#A" x="1" y="1"/><symbol id="A" overflow="visible"><g stroke="none" fill-rule="nonzero"><path d="M0 0h64v64H0z" fill="#cb3837"/><path d="M10.728 53.272h21.086V21.456h10.728v31.816H53.27V10.728H10.728z"/></g></symbol></svg>
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 25.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 64 64" style="enable-background:new 0 0 64 64;" xml:space="preserve">
+<style type="text/css">
+	.st0{fill:#CB3837;}
+	.st1{fill:#FFFFFF;}
+</style>
+<symbol  id="A" viewBox="-32 -32 64 64">
+	<g>
+		<path class="st0" d="M-32-32h64v64h-64V-32z"/>
+		<path class="st1" d="M-21.3,21.3h21.1v-31.8h10.7v31.8h10.7v-42.5h-42.5V21.3z"/>
+	</g>
+</symbol>
+<use xlink:href="#A"  width="64" height="64" x="-32" y="-32" transform="matrix(1 0 0 1 32 32)" style="overflow:visible;"/>
+</svg>
