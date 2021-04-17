@@ -4,6 +4,7 @@
 
 <span align="center">
     <h2 align="center">Jeff A. Hudson &mdash; Hudson Design Studio</h2>
+    
     <p align="center">We build awesome websites!</p>
 </span>
 
