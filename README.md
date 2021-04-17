@@ -10,8 +10,7 @@
 ![GitHub followers](https://img.shields.io/github/followers/JeffBoDean?style=social)
 ![GitHub Org's stars](https://img.shields.io/github/stars/JeffBoDean?style=social)
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=jeffbodean/jeffbodean)
-![Profile Views](https://komarev.com/ghpvc/?username=jeffbodean&color=007ec6&style=plastic)
-<img src="https://komarev.com/ghpvc/?username=jeffbodean&label=Profile%20views&color=0e75b6&style=flat" alt="jeffbodean" />
+![Profile Views](https://komarev.com/ghpvc/?username=jeffbodean&color=007ec6)
 
 <br>
 
@@ -73,6 +72,8 @@ We offer the following services:
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=JeffBoDean&theme=react-dark)](https://github.com/JeffBoDean/github-readme-activity-graph)
 
 <br>
+
+---
 
 <h3>Languages and Tools:</h3>
 
@@ -201,10 +202,10 @@ We offer the following services:
     </a>
 </p>
 
-<br>
+---
 
 <p align="center">
-    <img src="assets/images/contact-info-combined-buttons.svg" alt="Jeff Hudson Contact Info">
+    <img src="assets/images/contact-info-combined-buttons.svg" alt="Jeff Hudson Contact Buttons">
 </p>
 
 <img height="120" alt="Thanks for visiting my profile" width="100%" src="https://github.com/dibyendu415/dibyendu415/blob/master/marquee.svg" />
