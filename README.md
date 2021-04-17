@@ -112,7 +112,7 @@ We offer the following services:
 		<img src="assets/images/icons/javascript-icon.svg" alt="JavaSript icon" width="40" height="40"/>
 	</a>
 	<a href="https://jquery.com/" target="_blank">
-		<img src="assets/images/icons/jsquery-icon.svg" alt="jQuery icon" width="40" height="40"/>
+		<img src="assets/images/icons/jquery-icon.svg" alt="jQuery icon" width="40" height="40"/>
 	</a>
 	<a href="https://www.json.org/json-en.html" target="_blank">
 		<img src="assets/images/icons/json-icon.svg" alt="Json icon" width="40" height="40"/>
