@@ -247,9 +247,6 @@ We offer the following services:
 ### Hosting &amp; Services:
 
 <p>
-    <a href="https://www.sketchup.com/" target="_blank">
-	<img src="assets/images/icons/amazon-web-services-icon.svg" alt="Sketchup icon" width="40" height="40"/>
-    </a>
     <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank">
         <img src="assets/images/icons/amazon-web-services-icon.svg" alt="Amazon Web Service icon" width="40" height="40"/>
     </a>
