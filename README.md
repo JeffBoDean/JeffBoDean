@@ -112,7 +112,7 @@ We offer the following services:
 		<img src="assets/images/icons/markdown-icon.svg" alt="Markdown logo" width="40" height="40"/>
 	</a>
 	<a href="https://www.npmjs.com/" target="_blank">
-		<img src="assets/images/icons/npmjs-icon.svg" alt="npm logo" width="40" height="40"/>
+		<img src="assets/images/icons/npm-icon.svg" alt="npm logo" width="40" height="40"/>
 	</a>
 	<a href="https://www.jsdelivr.com/" target="_blank">
 		<img src="assets/images/icons/jsdelivr-icon.svg" alt="jsDelivr icon" width="40" height="40"/>
@@ -134,7 +134,7 @@ We offer the following services:
 
 <p>
     	<a href="https://git-scm.com/" target="_blank">
-		<img src="assets/images/icons/git-icon.svg" alt="Git icon" width="40" height="40"/>
+		<img src="assets/images/icons/git-scm-icon.svg" alt="Git icon" width="40" height="40"/>
       	</a>
 	<a href="https://github.com/" target="_blank">
 		<img src="assets/images/icons/github-icon.svg" alt="GitHub icon" width="40" height="40"/>
@@ -151,10 +151,10 @@ We offer the following services:
 
 <p>
     	<a href="https://www.jetbrains.com/phpstorm/" target="_blank">
-		<img src="assets/images/icons/phpstorm-icon.svg" alt="PHPStorm icon" width="40" height="40"/>
+		<img src="assets/images/icons/phpstorm-icon.svg" alt="PhpStorm icon" width="40" height="40"/>
       	</a>
 	<a href="https://www.sublimetext.com/" target="_blank">
-		<img src="assets/images/icons/github-icon.svg" alt="SublimeText3 icon" width="40" height="40"/>
+		<img src="assets/images/icons/sublime-text-icon.svg" alt="Sublime Text icon" width="40" height="40"/>
       	</a>
 	<a href="https://code.visualstudio.com/" target="_blank">
 		<img src="assets/images/icons/visual-studio-code-icon.svg" alt="Visual Studio Code icon" width="40" height="40"/>
@@ -171,25 +171,25 @@ We offer the following services:
 
 <p>
     <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank">
-        <img src="assets/images/icons/adobe-illustrator-icon.svg" alt="Adobe Illustrator icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-illustrator-cc-icon.svg" alt="Adobe Illustrator icon" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/photoshop.html" target="_blank">
-        <img src="assets/images/icons/adobe-photoshop-icon.svg" alt="Adobe Photoshop icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-photoshop-cc-icon.svg" alt="Adobe Photoshop icon" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/premiere.html" target="_blank">
-        <img src="assets/images/icons/adobe-premiere-pro-icon.svg" alt="Adobe Premiere Pro icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-premiere-pro-cc-icon.svg" alt="Adobe Premiere Pro icon" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/premiere-rush.html" target="_blank">
-        <img src="assets/images/icons/premiere-rush-icon.svg" alt="Adobe Premiere Rush icon" width="40" height="40"/>
+        <img src="assets/images/icons/premiere-rush-cc-icon.svg" alt="Adobe Premiere Rush icon" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
-        <img src="assets/images/icons/adobe-after-effects-icon.svg" alt="Adobe After Effects icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-after-effects-cc-icon.svg" alt="Adobe After Effects icon" width="40" height="40"/>
     </a>
     <a href="https://www.photoshop.com/en" target="_blank">
-        <img src="assets/images/icons/adobe-indesign-icon.svg" alt="Adobe InDesign icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-indesign-cc-icon.svg" alt="Adobe InDesign icon" width="40" height="40"/>
     </a>
     <a href="https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html" target="_blank">
-        <img src="assets/images/icons/adobe-acrobat-icon.svg" alt="Acrobat Pro DC icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-acrobat-cc-icon.svg" alt="Acrobat Pro DC icon" width="40" height="40"/>
     </a>
 </p>
 
