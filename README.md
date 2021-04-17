@@ -77,7 +77,7 @@ We offer the following services:
 
 <br>
 
-<h3>Languages:</h3>
+### Languages:
 
 <p>
 	<a href="https://getbootstrap.com" target="_blank">
@@ -121,7 +121,7 @@ We offer the following services:
 	</a>
 </p>
 
-<h3>Content Management Systems:</h3>
+### Content Management Systems:
 
 <p>
     <a href="https://wordpress.org/" target="_blank">
@@ -132,7 +132,7 @@ We offer the following services:
     </a>
 </p>
 
-<h3>Version Control:</h3>
+### Version Control:
 
 <p>
     	<a href="https://git-scm.com/" target="_blank">
@@ -149,7 +149,7 @@ We offer the following services:
       	</a>
 </p>
 
-<h3>IDE, Text Editors &amp; Command Line Tools:</h3>
+### IDE, Text Editors &amp; Command Line Tools:
 
 <p>
     	<a href="https://iterm2.com/" target="_blank">
@@ -190,7 +190,7 @@ We offer the following services:
 	</a>
 </p>
 
-<h3>Software:</h3>
+### Software:
 
 <p>
     <a href="https://www.mamp.info/en/mamp-pro/" target="_blank">
@@ -234,7 +234,7 @@ We offer the following services:
     </a>
 </p>
 
-<h3>Project Management:</h3>
+### Project Management:
 
 <p>
     <a href="https://www.atlassian.com/software/jira" target="_blank">
@@ -245,7 +245,7 @@ We offer the following services:
     </a>
 </p>
 
-<h3>Hosting &amp; Services:</h3>
+### Hosting &amp; Services:
 
 <p>
     <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank">
