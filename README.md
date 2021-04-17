@@ -150,7 +150,10 @@ We offer the following services:
 <h3>IDE, Text Editors &amp; Tools:</h3>
 
 <p>
-    	<a href="https://www.jetbrains.com/phpstorm/" target="_blank">
+    	<a href="https://iterm2.com/" target="_blank">
+		<img src="assets/images/icons/iterms2-icon.svg" alt="iTerms2 icon" width="40" height="40"/>
+      	</a>
+	<a href="https://www.jetbrains.com/phpstorm/" target="_blank">
 		<img src="assets/images/icons/phpstorm-icon.svg" alt="PhpStorm icon" width="40" height="40"/>
       	</a>
 	<a href="https://www.sublimetext.com/" target="_blank">
@@ -158,12 +161,6 @@ We offer the following services:
       	</a>
 	<a href="https://code.visualstudio.com/" target="_blank">
 		<img src="assets/images/icons/visual-studio-code-icon.svg" alt="Visual Studio Code icon" width="40" height="40"/>
-      	</a>
-	<a href="https://www.sketchup.com/" target="_blank">
-		<img src="assets/images/icons/sketchup-icon.svg" alt="Sketchup icon" width="40" height="40"/>
-      	</a>
-	<a href="https://iterm2.com/" target="_blank">
-		<img src="assets/images/icons/iterms2-icon.svg" alt="iTerms2 icon" width="40" height="40"/>
       	</a>
 </p>
 
@@ -180,7 +177,7 @@ We offer the following services:
         <img src="assets/images/icons/adobe-premiere-pro-cc-icon.svg" alt="Adobe Premiere Pro icon" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/premiere-rush.html" target="_blank">
-        <img src="assets/images/icons/premiere-rush-cc-icon.svg" alt="Adobe Premiere Rush icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-premiere-rush-cc-icon.svg" alt="Adobe Premiere Rush icon" width="40" height="40"/>
     </a>
     <a href="https://www.adobe.com/products/aftereffects.html" target="_blank">
         <img src="assets/images/icons/adobe-after-effects-cc-icon.svg" alt="Adobe After Effects icon" width="40" height="40"/>
@@ -189,7 +186,10 @@ We offer the following services:
         <img src="assets/images/icons/adobe-indesign-cc-icon.svg" alt="Adobe InDesign icon" width="40" height="40"/>
     </a>
     <a href="https://acrobat.adobe.com/us/en/acrobat/acrobat-pro.html" target="_blank">
-        <img src="assets/images/icons/adobe-acrobat-cc-icon.svg" alt="Acrobat Pro DC icon" width="40" height="40"/>
+        <img src="assets/images/icons/adobe-acrobat-pro-cc-icon.svg" alt="Acrobat Pro DC icon" width="40" height="40"/>
+    </a>
+    <a href="https://www.sketchup.com/" target="_blank">
+	<img src="assets/images/icons/sketchup-icon.svg" alt="Sketchup icon" width="40" height="40"/>
     </a>
 </p>
 
