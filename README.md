@@ -250,7 +250,7 @@ We offer the following services:
         <img src="assets/images/icons/amazon-web-services-icon.svg" alt="Amazon Web Service icon" width="40" height="40"/>
     </a>
     <a href="https://www.hostgator.com/" target="_blank">
-        <img src="assets/images/icons/hostgator-icon..svg" alt="Hostgator icon" width="40" height="40"/>
+        <img src="assets/images/icons/hostgator-icon.svg" alt="Hostgator icon" width="40" height="40"/>
     </a>
     <a href="https://pantheon.io/" target="_blank">
         <img src="assets/images/icons/pantheon-icon.svg" alt="Pantheon icon" width="40" height="40"/>
