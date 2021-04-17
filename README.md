@@ -4,6 +4,7 @@
 
 <span align="center">
     <h2 align="center">Jeff A. Hudson &mdash; Hudson Design Studio</h2>
+    
     <p align="center">We build awesome websites!</p>
 </span>
 
@@ -31,23 +32,28 @@ We offer the following services:
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br />
+    
     ![Github Trophy](https://github-profile-trophy.vercel.app/?username=JeffBoDean)
 </details>
 
 <details>
     <summary>&#9889 <b>GitHub Stats</b></summary><br />
+    
     [![github-test's GitHub stats](https://github-readme-stats.vercel.app/api?username=JeffBoDean&show_icons=true&theme=react)](https://github.com/JeffBoDean/github-readme-stats) [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=JeffBoDean&theme=react)](https://git.io/streak-stats)
 </details>
 
 <details>
     <summary>:computer: <b>Top Languages</b></summary><br />
+    
     [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeffBoDean&langs_count=8)](https://github.com/JeffBoDean/github-readme-stats)
 </details>
 
 <details>
     <summary>&#9889 <b>GitHub Recent Activity</b></summary><br />
+    
     <!--START_SECTION:activity-->
     <!--END_SECTION:activity-->
+    
 </details>
 
 <br>
@@ -55,6 +61,7 @@ We offer the following services:
 <!-- markdownlint-enable MD033 -->
 
 ### Recent Activity
+
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
