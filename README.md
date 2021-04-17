@@ -121,6 +121,8 @@ We offer the following services:
 	</a>
 </p>
 
+<br>
+
 ### Content Management Systems:
 
 <p>
@@ -131,6 +133,8 @@ We offer the following services:
         <img src="assets/images/icons/drupal-icon.svg" alt="Drupal icon" width="40" height="40"/>
     </a>
 </p>
+
+<br>
 
 ### Version Control:
 
@@ -148,6 +152,8 @@ We offer the following services:
 		<img src="assets/images/icons/gitkraken-icon.svg" alt="GitKraken icon" width="40" height="40"/>
       	</a>
 </p>
+
+<br>
 
 ### IDE, Text Editors &amp; Command Line Tools:
 
@@ -189,6 +195,8 @@ We offer the following services:
 		<img src="assets/images/icons/drush-blue-logo-icon.png" alt="Drush icon" width="40" height="40"/>
 	</a>
 </p>
+
+<br>
 
 ### Software:
 
@@ -234,16 +242,7 @@ We offer the following services:
     </a>
 </p>
 
-### Project Management:
-
-<p>
-    <a href="https://www.atlassian.com/software/jira" target="_blank">
-        <img src="assets/images/icons/jira-icon.svg" alt="Jira icon" width="40" height="40"/>
-    </a>
-    <a href="https://slack.com/" target="_blank">
-        <img src="assets/images/icons/slack-icon.svg" alt="Slack icon" width="40" height="40"/>
-    </a>
-</p>
+<br>
 
 ### Hosting &amp; Services:
 
@@ -265,6 +264,19 @@ We offer the following services:
     </a>
     <a href="https://siteimprove.com/" target="_blank">
 	<img src="assets/images/icons/siteimprove-icon.svg" alt="Siteimprove icon" width="40" height="40"/>
+    </a>
+</p>
+
+<br>
+
+### Project Management:
+
+<p>
+    <a href="https://www.atlassian.com/software/jira" target="_blank">
+        <img src="assets/images/icons/jira-icon.svg" alt="Jira icon" width="40" height="40"/>
+    </a>
+    <a href="https://slack.com/" target="_blank">
+        <img src="assets/images/icons/slack-icon.svg" alt="Slack icon" width="40" height="40"/>
     </a>
 </p>
 
