@@ -77,8 +77,9 @@ We offer the following services:
 
 <br>
 
-### Languages:
+<h3>Languages:</h3>
 
+<p>
 	<a href="https://getbootstrap.com" target="_blank">
 		<img src="assets/images/icons/bootstrap-icon.svg" alt="Bootstrap logo" width="40" height="40"/>
 	</a>
@@ -118,18 +119,22 @@ We offer the following services:
 	<a href="https://www.json.org/json-en.html" target="_blank">
 		<img src="assets/images/icons/json-icon.svg" alt="Json icon" width="40" height="40"/>
 	</a>
+</p>
 
-### Content Management Systems:
+<h3>Content Management Systems:</h3>
 
+<p>
     <a href="https://wordpress.org/" target="_blank">
         <img src="assets/images/icons/wordpress-icon.svg" alt="WordPress icon" width="40" height="40"/>
     </a>
     <a href="https://www.drupal.org/" target="_blank">
         <img src="assets/images/icons/drupal-icon.svg" alt="Drupal icon" width="40" height="40"/>
     </a>
+</p>
 
-### Version Control:
+<h3>Version Control:</h3>
 
+<p>
     	<a href="https://git-scm.com/" target="_blank">
 		<img src="assets/images/icons/git-scm-icon.svg" alt="Git icon" width="40" height="40"/>
       	</a>
@@ -142,9 +147,11 @@ We offer the following services:
 	<a href="https://www.gitkraken.com/" target="_blank">
 		<img src="assets/images/icons/gitkraken-icon.svg" alt="GitKraken icon" width="40" height="40"/>
       	</a>
+</p>
 
-### IDE, Text Editors &amp; Command Line Tools:
+<h3>IDE, Text Editors &amp; Command Line Tools:</h3>
 
+<p>
     	<a href="https://iterm2.com/" target="_blank">
 		<img src="assets/images/icons/iterms2-icon.svg" alt="iTerms2 icon" width="40" height="40"/>
       	</a>
@@ -181,9 +188,11 @@ We offer the following services:
 	<a href="https://www.drush.org/latest/" target="_blank">
 		<img src="assets/images/icons/drush-blue-logo-icon.png" alt="Drush icon" width="40" height="40"/>
 	</a>
+</p>
 
-### Software:
+<h3>Software:</h3>
 
+<p>
     <a href="https://www.mamp.info/en/mamp-pro/" target="_blank">
         <img src="assets/images/icons/mamp-pro-icon.svg" alt="Mamp Pro icon" width="40" height="40"/>
     </a>
@@ -223,18 +232,22 @@ We offer the following services:
     <a href="https://www.sketchup.com/" target="_blank">
 	<img src="assets/images/icons/sketchup-icon.svg" alt="Sketchup icon" width="40" height="40"/>
     </a>
+</p>
 
-### Project Management:
+<h3>Project Management:</h3>
 
+<p>
     <a href="https://www.atlassian.com/software/jira" target="_blank">
         <img src="assets/images/icons/jira-icon.svg" alt="Jira icon" width="40" height="40"/>
     </a>
     <a href="https://slack.com/" target="_blank">
         <img src="assets/images/icons/slack-icon.svg" alt="Slack icon" width="40" height="40"/>
     </a>
+</p>
 
-### Hosting &amp; Services:
+<h3>Hosting &amp; Services:</h3>
 
+<p>
     <a href="https://aws.amazon.com/?nc2=h_lg" target="_blank">
         <img src="assets/images/icons/amazon-web-services-icon.svg" alt="Amazon Web Service icon" width="40" height="40"/>
     </a>
@@ -253,6 +266,7 @@ We offer the following services:
     <a href="https://siteimprove.com/" target="_blank">
 	<img src="assets/images/icons/siteimprove-icon.svg" alt="Siteimprove icon" width="40" height="40"/>
     </a>
+</p>
 
 <br>
 
