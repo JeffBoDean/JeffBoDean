@@ -195,9 +195,6 @@ We offer the following services:
 	<a href="https://www.npmjs.com/" target="_blank">
 		<img src="assets/images/icons/npm-icon.svg" alt="npm logo" width="40" height="40"/>
 	</a>
-	<a href="https://www.jsdelivr.com/" target="_blank">
-		<img src="assets/images/icons/jsdelivr-icon.svg" alt="jsDelivr icon" width="40" height="40"/>
-	</a>
 	<a href="https://getcomposer.org/" target="_blank">
 		<img src="assets/images/icons/composer-icon.svg" alt="Composer icon" width="40" height="40"/>
 	</a>
@@ -274,6 +271,9 @@ We offer the following services:
     </a>
     <a href="https://siteimprove.com/" target="_blank">
 	<img src="assets/images/icons/siteimprove-icon.svg" alt="Siteimprove icon" width="40" height="40"/>
+    </a>
+    <a href="https://www.jsdelivr.com/" target="_blank">
+	<img src="assets/images/icons/jsdelivr-icon.svg" alt="jsDelivr icon" width="40" height="40"/>
     </a>
 </p>
 
