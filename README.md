@@ -99,9 +99,6 @@ We offer the following services:
 	<a href="https://www.mysql.com/" target="_blank">
 		<img src="assets/images/icons/mysql-icon.svg" alt="MySql logo" width="40" height="40"/>
 	</a>
-	<a href="https://nodejs.org" target="_blank">
-		<img src="assets/images/icons/nodejs-icon.svg" alt="NodeJs logo" width="40" height="40"/>
-	</a>
 	<a href="https://sass-lang.com" target="_blank">
 		<img src="assets/images/icons/sass-icon.svg" alt="SASS logo" width="40" height="40"/>
 	</a>
@@ -111,12 +108,6 @@ We offer the following services:
 	<a href="https://www.markdownguide.org/" target="_blank">
 		<img src="assets/images/icons/markdown-icon.svg" alt="Markdown logo" width="40" height="40"/>
 	</a>
-	<a href="https://www.npmjs.com/" target="_blank">
-		<img src="assets/images/icons/npm-icon.svg" alt="npm logo" width="40" height="40"/>
-	</a>
-	<a href="https://www.jsdelivr.com/" target="_blank">
-		<img src="assets/images/icons/jsdelivr-icon.svg" alt="jsDelivr icon" width="40" height="40"/>
-	</a>
 	<a href="https://www.javascript.com/" target="_blank">
 		<img src="assets/images/icons/javascript-icon.svg" alt="JavaSript icon" width="40" height="40"/>
 	</a>
@@ -125,12 +116,6 @@ We offer the following services:
 	</a>
 	<a href="https://www.json.org/json-en.html" target="_blank">
 		<img src="assets/images/icons/json-icon.svg" alt="Json icon" width="40" height="40"/>
-	</a>
-	<a href="https://getcomposer.org/" target="_blank">
-		<img src="assets/images/icons/composer-icon.svg" alt="Composer icon" width="40" height="40"/>
-	</a>
-	<a href="https://www.drush.org/latest/" target="_blank">
-		<img src="assets/images/icons/drush-icon.svg" alt="Drush icon" width="40" height="40"/>
 	</a>
 </p>
 
@@ -162,7 +147,7 @@ We offer the following services:
       	</a>
 </p>
 
-<h3>IDE, Text Editors &amp; Tools:</h3>
+<h3>IDE, Text Editors &amp; Command Line Tools:</h3>
 
 <p>
     	<a href="https://iterm2.com/" target="_blank">
@@ -186,6 +171,21 @@ We offer the following services:
 	<a href="https://gulpjs.com/" target="_blank">
 		<img src="assets/images/icons/gulp-icon.svg" alt="Gulp icon" width="40" height="40"/>
       	</a>
+	<a href="https://nodejs.org" target="_blank">
+		<img src="assets/images/icons/nodejs-icon.svg" alt="NodeJs logo" width="40" height="40"/>
+	</a>
+	<a href="https://www.npmjs.com/" target="_blank">
+		<img src="assets/images/icons/npm-icon.svg" alt="npm logo" width="40" height="40"/>
+	</a>
+	<a href="https://www.jsdelivr.com/" target="_blank">
+		<img src="assets/images/icons/jsdelivr-icon.svg" alt="jsDelivr icon" width="40" height="40"/>
+	</a>
+	<a href="https://getcomposer.org/" target="_blank">
+		<img src="assets/images/icons/composer-icon.svg" alt="Composer icon" width="40" height="40"/>
+	</a>
+	<a href="https://www.drush.org/latest/" target="_blank">
+		<img src="assets/images/icons/drush-icon.svg" alt="Drush icon" width="40" height="40"/>
+	</a>
 </p>
 
 <h3>Software:</h3>
